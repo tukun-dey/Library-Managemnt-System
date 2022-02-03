@@ -1,2 +1,2 @@
 # Library-Managemnt-System
-Minor Project
+Minor
